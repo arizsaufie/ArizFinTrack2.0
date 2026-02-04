@@ -1,7 +1,3 @@
-// ===== Flutter Project Ready for GitHub & Codemagic =====
-// Project: My Finance App (RM)
-// Features: PIN lock, language EN/BM toggle, Dashboard, Debt management
-
 // lib/main.dart
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
